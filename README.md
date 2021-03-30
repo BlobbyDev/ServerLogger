@@ -4,20 +4,21 @@ This is a bot that doesn't have any command just some events to make server logs
 
 ## Configuration
 
+Go to [Discord Developer Portal](https://discord.com/developers/applications) and make an application and then obtain the Bot Token !!
+
 Go to `config.json` and then 
 
 ```js
 {
-    "LogsChannel": "Channel of the channel that you wannt make a server logs !!",
-    "Ignore": "Your id so that if you say any slurs the bot won't delete your text !!",
-    "RacistSlurs": ["nigga", "nigger"],
-    "Links": ["discord.gg/", "dsc.gg", "https://discord.com/oauth2/authorize?client_id=", "discord.com/api/oauth2/authorize?client_id="], // you can add more 
-    "Words": ["porn", "horny", "whore", "orgasm", "masturbate", "felch", "blowjob", "cuckold", "fuck"] // You can add more words
+    "LogsChannel": "", // Your server logging channel ID
+    "Ignore": "", // Your ID
+    "RacistSlurs": [""], // Add some racist slurs that you wannt ban in the server
+    "Links": [""], // Invite links
+    "Words": [""] // Word that you need to ban in the server
 ```
 
 And then make an `.env` file and then 
 
 ```
-TOKEN=Your bot's token
+TOKEN=Your Bot's Token
 ```
-
