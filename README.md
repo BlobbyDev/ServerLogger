@@ -7,7 +7,6 @@ This is a bot that doesn't have any command just some events to make server logs
 Go to [Discord Developer Portal](https://discord.com/developers/applications) and make an application and then obtain the Bot Token !!
 
 Go to `config.json` and then 
-
 ```js
 {
     "LogsChannel": "", // Your server logging channel ID
@@ -18,7 +17,6 @@ Go to `config.json` and then
 ```
 
 And then make an `.env` file and then 
-
 ```
 TOKEN=Your Bot's Token
 ```
