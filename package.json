@@ -1,12 +1,12 @@
 {
   "name": "blob-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server Logging Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Dinav69",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "^0.0.9",
