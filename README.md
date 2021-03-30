@@ -11,7 +11,7 @@ Go to `config.json` and then
     "LogsChannel": "Channel of the channel that you wannt make a server logs !!",
     "Ignore": "Your id so that if you say any slurs the bot won't delete your text !!",
     "RacistSlurs": ["nigga", "nigger"],
-    "Links": ["discord.gg/", "dsc.gg", "https://discord.com/oauth2/authorize?client_id=", "discord.com/api/oauth2/authorize?client_id=", "discordapp.com/oauth2/authorize?      client_id="], // You can add more
+    "Links": ["discord.gg/", "dsc.gg", "https://discord.com/oauth2/authorize?client_id=", "discord.com/api/oauth2/authorize?client_id="] // you can add more 
     "Words": ["porn", "horny", "whore", "orgasm", "masturbate", "felch", "blowjob", "cuckold"] // You can add more words
 ```
 
