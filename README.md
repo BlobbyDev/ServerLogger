@@ -10,7 +10,7 @@ If you want the code of multi purpose public bot then [click here](https://githu
 
 [![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
 
-## Configuration
+# Configuration
 
 Go to [Discord Developer Portal](https://discord.com/developers/applications) and make an application and then obtain the Bot Token !!
 
