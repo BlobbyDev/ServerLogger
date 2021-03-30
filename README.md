@@ -7,6 +7,7 @@ This is a bot that doesn't have any command just some events to make server logs
 If you want the code of multi purpose public bot then [click here](https://github.com/Dinav69/DoggoBot)
 
 [Join Our Discord](https://discord.gg/RWSEj6JrjJ) | [Add DJ Blob](https://dsc.gg/djblob) | [Add Doggo](https://discord.com/oauth2/authorize?client_id=818092139496996864&permissions=8&scope=bot%20applications.commands)
+
 [![DiscordBanner](https://invidget.switchblade.xyz/RWSEj6JrjJ)](https://discord.gg/RWSEj6JrjJ)
 
 ## Configuration
