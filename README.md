@@ -18,6 +18,7 @@ Go to `config.json` and then
 ```js
 {
     "LogsChannel": "", // Your server logging channel ID
+}
 ```
 
 And then make an `.env` file and then 
